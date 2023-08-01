@@ -8,6 +8,8 @@ Projeto desenvolvido para diminuir o trabalho de verificação manual das pastas
 Um exemplo de uso desse script é quando se tem uma pasta sincronizada com o google drive que está no computador X e outra pasta que é a mesma porém não está sincronizada e está no computador Y, usando o script para saber se tem coisas diferentes entre elas, gerará o resultado em .txt.
 
 ## Requisitos para rodar o projeto
-Projeto criado em Python utilizando as bibliotecas OS e glob para verificação das movimentações das pastas dos clientes, e PySimpleGUI para interface.
+- Python 3.10.10 Acima
+- instalar as bibliotecas do arquivo requirements.txt
 
 # REQUERIMENTOS DE BIBLIOTECAS NO ARQUIVO requirements.txt
+Execute o seguinte comando no terminal do projeto: pip install -r requirements.txt
