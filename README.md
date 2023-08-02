@@ -1,4 +1,4 @@
-# Varredura de duas pasta para achar a diferença entre ela (se houve modificação entre duas pastas 'irmãs')
+# Verificação de modificação entre pastas 'irmãs'
 
 ## Sobre o projeto
 O projeto foi desenvolvido ultilizando o glob, que tem como característica de uso o retorno de todos os caminhos de arquivo que correspondem a um padrão que você venha a especificar. 
